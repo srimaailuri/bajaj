@@ -1,0 +1,21 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.card-header {
+  text-align: center;
+}
+
+textarea {
+  resize: none;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
